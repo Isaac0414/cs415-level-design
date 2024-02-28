@@ -15,7 +15,23 @@
 				"C:/Users/zheng/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/NewHUD.uasset",
 				"C:/Users/zheng/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/BP_Pursuer.uasset",
 				"C:/Users/zheng/Documents/Unreal Projects/UnrealLearningKit/Content/Blueprints/EAIState.uasset",
-				"C:/Users/zheng/Documents/Unreal Projects/UnrealLearningKit/Content/UI/WB_Restart.uasset"
+				"C:/Users/zheng/Documents/Unreal Projects/UnrealLearningKit/Content/UI/WB_Restart.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/BP_Mortar.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/BlockGame/Sounds/explosion-nearby.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/BP_MortarProjectile.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/BP_Shooter.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/BP_ShooterProjectile.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/Spawner.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/UI/WB_Main.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/UI/WB_Complete.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Action/IA_UpDown.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Actions/IA_UpDown.uasset",
+				"C:/Users/zheng/Documents/cs415-level-design/Content/Actions/IMC_Default.uasset"
 			]
 		}
 	]
